@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Matrisampleapp</string>
+    <string name="my_matches">My Matches</string>
+    <string name="pendingtext">5 Profiles pending with me</string>
+    <string name="dailyrecommendationstext">Daily Recommendations</string>
+    <string name="skip" />
+</resources>
